@@ -1,3 +1,6 @@
-python-telegram-bot
-httpx
-flask
+requests
+firebase-admin
+beautifulsoup4
+python-dotenv
+cloudscraper
+pyotp
